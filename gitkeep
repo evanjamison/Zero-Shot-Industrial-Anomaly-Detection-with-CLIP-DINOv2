@@ -1,0 +1,4 @@
+# This folder holds the MVTec AD dataset.
+# Download from: https://www.mvtec.com/company/research/datasets/mvtec-ad
+# Place extracted category folders here (bottle/, leather/, etc.)
+# Do NOT upload this data to GitHub.

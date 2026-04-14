@@ -1,0 +1,14 @@
+{
+  "category": "bottle",
+  "normal_prompts": [
+    "a photo of a normal bottle",
+    "a photo of a flawless bottle with no defects",
+    "a photo of a perfect undamaged bottle"
+  ],
+  "anomaly_prompts": [
+    "a photo of a broken bottle",
+    "a photo of a damaged bottle with cracks",
+    "a photo of a defective bottle with contamination"
+  ],
+  "notes": "Prompts for MVTec AD bottle category. Experiment with wording in Phase 3."
+}
